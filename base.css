@@ -105,9 +105,10 @@ nav,
 section {
   display: block;
 }
+
 /* Updated Body CSS */
 body {
-  background-color: black;
+  background-color: black; 
 }
 ol,
 ul {
