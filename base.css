@@ -105,8 +105,9 @@ nav,
 section {
   display: block;
 }
+/* update body background */
 body {
-  background-color: black;
+  background-color: black; 
 }
 ol,
 ul {
