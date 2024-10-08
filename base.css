@@ -105,8 +105,9 @@ nav,
 section {
   display: block;
 }
+/* update body background */
 body {
-  /* Add background-color declaration here */
+  background-color: black; 
 }
 ol,
 ul {
